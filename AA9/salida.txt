@@ -1,0 +1,7 @@
+VIDEOJUEGOS:     CANTIDAD DE REGISTROS         MONTO TOTAL
+DARK SOULS 3     10000                      50000
+THE LAST OF US     50000                      500000
+FIFA 2022     60000                      900000
+MARIO BROSS     45000                      45000
+DOOM 2     100000                      100000
+HORIZON     50000                      250000
