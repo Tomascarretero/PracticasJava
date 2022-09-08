@@ -12,7 +12,7 @@ pipeline {
             steps {
                 script{
                   if(date.getDay() == 4){
-                    println "Chiste de informático"
+                    println "¿Cuántos programadores hacen falta para cambiar una bombilla? – Ninguno, porque es un de problema hardware."
                   }                  
                 }
             }
@@ -22,7 +22,7 @@ pipeline {
             steps {
                 script{
                   if(date.getDay() == 5){
-                    println "Chiste de humor negro"
+                    println "Una vez, Batman disparó a un tiovivo y consiguió un tío muerto."
                   }                  
                 }
             }
@@ -32,7 +32,7 @@ pipeline {
             steps {
                 script{
                   if(date.getDay() == 1){
-                    println "Chiste de fútbol"
+                    println "-¿Cómo se llama el peor jugador japonés? -Nikito Nitoko."
                   }                  
                 }
             }
@@ -42,7 +42,7 @@ pipeline {
             steps {
                 script{
                   if(date.getDay() == 2){
-                    println "Chiste de politica"
+                    println "«Y tú más» -Breve resumen de la política española sobre el partido gobernante y la oposición."
                   }                  
                 }
             }
@@ -52,7 +52,7 @@ pipeline {
             steps {
                 script{
                   if(date.getDay() == 3){
-                    println "Chiste de médicos"
+                    println "– Doctor todo el mundo me ignora– Que pase el siguiente por favor."
                   }                  
                 }
             }
