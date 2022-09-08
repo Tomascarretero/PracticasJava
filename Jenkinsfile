@@ -3,7 +3,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 Date date = new Date();
-DateFormat dateFormat=new SimpleDateFormat("dd/MM/yy");
+DateFormat dateFormat=new SimpleDateFormat("dd/MM/yyyy");
 def fecha = dateFormat.format(date)
 pipeline {
     agent any
