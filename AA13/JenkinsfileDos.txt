@@ -1,0 +1,21 @@
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+Date date = new Date();
+DateFormat dateFormat=new SimpleDateFormat("dd/MM/yyyy");
+def elDia = dateFormat.format(date)
+pipeline {
+    agent any
+
+    stages {
+        stage('info') {
+            steps {
+                script{
+                        println "Hola Mundo! EL día de hoy es " + elDia + " . Este curso me hizo programar mas de lo que me hubiese gustado."
+                                    
+                }
+            }
+        }  
+    }
+}
