@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('info') {
+            steps {
+                script{
+println " Nombre                                   CANTIDAD PRODUCIDAChocolate Blanco                    1000Chocolate Negro                    1500Chocolate con almendras                    1200Chocolate con castañas de caju                    1300Chocolate en rama                    100Chocolate con 70% de cacao                    1500"                 }
+            }
+        }  
+    }
+}
