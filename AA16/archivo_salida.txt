@@ -1,0 +1,51 @@
+Usuario que crea este reporte --> ID_USUARIO=1, nombre=Tomás Carretero Reyes, email=tomascr1@yahoo.es
+
+TOP 10 ARTISTAS DE 2020
+Bad Gyal
+Beret
+Aitana
+Omar Montes
+Rosalía
+Rvfv
+Lérica
+C. Tangana
+Juan Magán
+Ana Mena
+
+TOP 10 ARTISTAS DE 2021
+Rauw Alejandro
+Bad Bunny
+Myke Towers
+J Balvin
+Anuel AA
+Aitana
+KAROL G
+María Becerra
+Dua Lipa
+Nicki Nicole
+
+Artista:Canción:Veces Escuchado:Recaudación ---->
+
+TOP 10 ARTISTAS DE 2020
+Tusa:KAROL G con Nicki Minaj:1000000:2000000
+Se iluminaba:Fred De Palma y Ana Mena:2000000:4000000
+La Jeepeta - Remix:Nio Garcia, Anuel AA, Myke Towers, Brray y Juanka:3000000:6000000
+Caramelo:Ozuna La Curiosidad- Jay Wheeler, DJ Nelson y Myke Towers:5000000:10000000
+La Curiosidad:Jay Wheeler, DJ Nelson y Myke Towers:4000000:8000000
+Mil Tequilas:Chema Rivas:6000000:12000000
+Morado:J Balvin:10000000:20000000
+Safaera:Bad Bunny, Jowell Randy y Ñengo Flow:7500000:15000000
+Relación:Sech:1000000:2000000
+Dance Monkey:Tones And I:10000000:20000000
+
+TOP 10 ARTISTAS DE 2021
+Todo de ti:Rauw Alejandro:1000000:2000000
+Pareja del año:Sebastián Yatra, Myke Towers:1000000:2000000
+Yonaguni:Bad Bunny:2000000:4000000
+Fiel:Los legendarios, Wisin, Jhay Cortez:3000000:6000000
+La historia:El taiger, DJ Conds:5000000:10000000
+Bandido:Myke Towers:10000000:20000000
+Qué Mas Pues:J Balvin, María Becerra:15000000:30000000
+Tiroteo Remix:Marc Seguí, Rauw Alejandro, Pol Granch:17000000:34000000
+Loco:Justin Aquiles, Chimbala, Zion & Lennox:18000000:36000000
+DÁKITI:Bad Bunny, Jhay Cortez:20000000:40000000
