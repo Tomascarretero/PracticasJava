@@ -9,30 +9,30 @@ package spotify;
  *
  */
 public class Artista extends Persona implements Recaudar {
-	private String canción;
+	private String cancion;
 	private int vecesEscuchado;
 	private int recaudado;
 	
 	/**
 	 * @param nombre
-	 * @param canción
+	 * @param cancion
 	 * @param vecesEscuchado
 	 */
-	public Artista(String nombre, String canción, int vecesEscuchado) {
+	public Artista(String nombre, String cancion, int vecesEscuchado) {
 		super(nombre);
-		this.canción = canción;
+		this.cancion = cancion;
 		this.vecesEscuchado = vecesEscuchado;
 	}
 	
 	/**
 	 * @param nombre
-	 * @param canción
+	 * @param cancion
 	 * @param vecesEscuchado
 	 * @param recaudado
 	 */
-	public Artista(String nombre, String canción, int vecesEscuchado, int recaudado) {
+	public Artista(String nombre, String cancion, int vecesEscuchado, int recaudado) {
 		super(nombre);
-		this.canción = canción;
+		this.cancion = cancion;
 		this.vecesEscuchado = vecesEscuchado;
 		this.recaudado = recaudado;
 	}
@@ -52,16 +52,16 @@ public class Artista extends Persona implements Recaudar {
 	}
 
 	/**
-	 * @return el canción
+	 * @return el cancion
 	 */
-	public String getCanción() {
-		return canción;
+	public String getCancion() {
+		return cancion;
 	}
 	/**
-	 * @param canción el canción a establecer
+	 * @param canción el cancion a establecer
 	 */
-	public void setCanción(String canción) {
-		this.canción = canción;
+	public void setCanción(String cancion) {
+		this.cancion = cancion;
 	}
 	/**
 	 * @return el vecesEscuchado
@@ -84,6 +84,6 @@ public class Artista extends Persona implements Recaudar {
 
 	@Override
 	public String toString() {
-		return this.getNombre() + ":" + canción + ":" + vecesEscuchado + ":" + this.recaudacion();
+		return this.getNombre() + ":" + cancion + ":" + vecesEscuchado + ":" + this.recaudacion();
 	}
 }
