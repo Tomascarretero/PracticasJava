@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('info') {
+            steps {
+                script{
+println " 2022-09-12  [Usuario=ID_USUARIO=1, Nombre del usuario=Carretero Reyes, Tomás, fecha=2022-09-12]  [[provincia=A Coruña, capital=A Coruña], [provincia=Alacant, capital=Alacant], [provincia=Albacete, capital=Albacete], [provincia=Almería, capital=Almería], [provincia=Araba, capital=Araba], [provincia=Asturias, capital=Asturias], [provincia=Badajoz, capital=Badajoz], [provincia=Barcelona, capital=Barcelona], [provincia=Bizkaia, capital=Bizkaia], [provincia=Burgos, capital=Burgos], [provincia=Cantabria, capital=Cantabria], [provincia=Castelló, capital=Castelló], [provincia=Ceuta, capital=Ceuta], [provincia=Ciudad Real, capital=Ciudad Real], [provincia=Cuenca, capital=Cuenca], [provincia=Cáceres, capital=Cáceres], [provincia=Cádiz, capital=Cádiz], [provincia=Córdoba, capital=Córdoba], [provincia=Gipuzcoa, capital=Gipuzcoa], [provincia=Girona, capital=Girona], [provincia=Granada, capital=Granada], [provincia=Guadalajara, capital=Guadalajara], [provincia=Huelva, capital=Huelva], [provincia=Huesca, capital=Huesca], [provincia=Illes Balears, capital=Illes Balears], [provincia=Jaén, capital=Jaén], [provincia=La Rioja, capital=La Rioja], [provincia=Las Palmas, capital=Las Palmas], [provincia=León, capital=León], [provincia=Lleida, capital=Lleida], [provincia=Lugo, capital=Lugo], [provincia=Madrid, capital=Madrid], [provincia=Melilla, capital=Melilla], [provincia=Murcia, capital=Murcia], [provincia=Málaga, capital=Málaga], [provincia=Navarra, capital=Navarra], [provincia=Ourense, capital=Ourense], [provincia=Palencia, capital=Palencia], [provincia=Pontevedra, capital=Pontevedra], [provincia=Salamanca, capital=Salamanca], [provincia=Santa Cruz de Tenerife, capital=Santa Cruz de Tenerife], [provincia=Segovia, capital=Segovia], [provincia=Sevilla, capital=Sevilla], [provincia=Soria, capital=Soria], [provincia=Tarragona, capital=Tarragona], [provincia=Teruel, capital=Teruel], [provincia=Toledo, capital=Toledo], [provincia=Valladolid, capital=Valladolid], [provincia=València, capital=València], [provincia=Zamora, capital=Zamora], [provincia=Zaragoza, capital=Zaragoza], [provincia=Ávila, capital=Ávila]]"                 }
+            }
+        }  
+    }
+}
