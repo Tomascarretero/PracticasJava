@@ -1,0 +1,9 @@
+Usuario que crea este reporte --> ID_USUARIO=1, nombre=Tomás Carretero Reyes, email=tomascr1@yahoo.es
+
+PAIS: España
+Continente:  Europa
+Capital:  Madrid
+Clima predominante:  Calido
+Habitantes: 47350000
+Salario Mínimo: 1050
+PIB: -1822107552,00
