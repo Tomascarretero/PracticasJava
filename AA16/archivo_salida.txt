@@ -1,15 +1,15 @@
-Usuario que crea este reporte --> ID_USUARIO=1, nombre=Tom·s Carretero Reyes, email=tomascr1@yahoo.es
+Usuario que crea este reporte --> ID_USUARIO=1, nombre=Tom√°s Carretero Reyes, email=tomascr1@yahoo.es
 
 TOP 10 ARTISTAS DE 2020
 Bad Gyal
 Beret
 Aitana
 Omar Montes
-RosalÌa
+Rosal√≠a
 Rvfv
-LÈrica
+L√©rica
 C. Tangana
-Juan Mag·n
+Juan Mag√°n
 Ana Mena
 
 TOP 10 ARTISTAS DE 2021
@@ -20,11 +20,11 @@ J Balvin
 Anuel AA
 Aitana
 KAROL G
-MarÌa Becerra
+Mar√≠a Becerra
 Dua Lipa
 Nicki Nicole
 
-Artista:CanciÛn:Veces Escuchado:RecaudaciÛn ---->
+Artista:Canci√≥n:Veces Escuchado:Recaudaci√≥n ---->
 
 TOP 10 ARTISTAS DE 2020
 Tusa:KAROL G con Nicki Minaj:1000000:2000000
@@ -34,18 +34,18 @@ Caramelo:Ozuna La Curiosidad- Jay Wheeler, DJ Nelson y Myke Towers:5000000:10000
 La Curiosidad:Jay Wheeler, DJ Nelson y Myke Towers:4000000:8000000
 Mil Tequilas:Chema Rivas:6000000:12000000
 Morado:J Balvin:10000000:20000000
-Safaera:Bad Bunny, Jowell Randy y —engo Flow:7500000:15000000
-RelaciÛn:Sech:1000000:2000000
+Safaera:Bad Bunny, Jowell Randy y √ëengo Flow:7500000:15000000
+Relaci√≥n:Sech:1000000:2000000
 Dance Monkey:Tones And I:10000000:20000000
 
 TOP 10 ARTISTAS DE 2021
 Todo de ti:Rauw Alejandro:1000000:2000000
-Pareja del aÒo:Sebasti·n Yatra, Myke Towers:1000000:2000000
+Pareja del a√±o:Sebasti√°n Yatra, Myke Towers:1000000:2000000
 Yonaguni:Bad Bunny:2000000:4000000
 Fiel:Los legendarios, Wisin, Jhay Cortez:3000000:6000000
 La historia:El taiger, DJ Conds:5000000:10000000
 Bandido:Myke Towers:10000000:20000000
-QuÈ Mas Pues:J Balvin, MarÌa Becerra:15000000:30000000
-Tiroteo Remix:Marc SeguÌ, Rauw Alejandro, Pol Granch:17000000:34000000
+Qu√© Mas Pues:J Balvin, Mar√≠a Becerra:15000000:30000000
+Tiroteo Remix:Marc Segu√≠, Rauw Alejandro, Pol Granch:17000000:34000000
 Loco:Justin Aquiles, Chimbala, Zion & Lennox:18000000:36000000
-D¡KITI:Bad Bunny, Jhay Cortez:20000000:40000000
+D√ÅKITI:Bad Bunny, Jhay Cortez:20000000:40000000

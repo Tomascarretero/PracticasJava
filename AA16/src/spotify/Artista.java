@@ -5,7 +5,7 @@ package spotify;
 
 
 /**
- * @author Tomás Carretero Reyes.
+ * @author TomÃ¡s Carretero Reyes.
  *
  */
 public class Artista extends Persona implements Recaudar {
@@ -58,9 +58,9 @@ public class Artista extends Persona implements Recaudar {
 		return cancion;
 	}
 	/**
-	 * @param canción el cancion a establecer
+	 * @param cancion el cancion a establecer
 	 */
-	public void setCanción(String cancion) {
+	public void setCancion(String cancion) {
 		this.cancion = cancion;
 	}
 	/**
