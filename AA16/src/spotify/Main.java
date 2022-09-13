@@ -6,7 +6,7 @@ package spotify;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * @author Tom·s Carretero Reyes.
+ * @author Tom√°s Carretero Reyes.
  *
  */
 public class Main {

@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 
 /**
  * 
- * @author Tom·s Carretero Reyes.
+ * @author Tom√°s Carretero Reyes.
  *
  */
 @Aspect
@@ -48,7 +48,7 @@ public class AspectoLog {
 
 	@After("execution(* generarArchivo())")
 	public void logGenerar2() {
-		System.out.println("Se generÛ el archivo.");
+		System.out.println("Se gener√≥ el archivo.");
 	}
 
 }// Fin class.

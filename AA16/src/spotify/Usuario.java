@@ -2,7 +2,7 @@ package spotify;
 
 /**
  * 
- * @author Tom·s Carretero Reyes.
+ * @author Tom√°s Carretero Reyes.
  *
  */
 public class Usuario {

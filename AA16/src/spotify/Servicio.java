@@ -34,10 +34,10 @@ public class Servicio {
 		info.append("TOP 10 ARTISTAS DE 2020\n");
 		try (BufferedReader leer = new BufferedReader(new FileReader(artistas20))) {
 
-			// Utilizo un readLine para leer líneas completas.
+			// Utilizo un readLine para leer lÃ­neas completas.
 			String leido = leer.readLine();
 
-			// Utilizo un while para que se haga mientras que lo leído no sea null.
+			// Utilizo un while para que se haga mientras que lo leÃ­do no sea null.
 			while (leido != null) {
 
 				info.append(leido + "\n");
@@ -55,11 +55,11 @@ public class Servicio {
 		info.append("\nTOP 10 ARTISTAS DE 2021");
 		try (BufferedReader leer = new BufferedReader(new FileReader(artistas21))) {
 
-			// Utilizo un readLine para leer líneas completas.
+			// Utilizo un readLine para leer lÃ­neas completas.
 			String leido = leer.readLine();
 
 			info.append("\n");
-			// Utilizo un while para que se haga mientras que lo leído no sea null.
+			// Utilizo un while para que se haga mientras que lo leÃ­do no sea null.
 			while (leido != null) {
 
 				info.append(leido + "\n");
@@ -77,13 +77,13 @@ public class Servicio {
 		try (BufferedReader leer = new BufferedReader(new FileReader(canciones20))) {
 
 			lista = new LinkedList<>();
-			// Utilizo un readLine para leer líneas completas.
+			// Utilizo un readLine para leer lÃ­neas completas.
 			String leido = leer.readLine();
 
-			// Utilizo un while para que se haga mientras que lo leído no sea null.
+			// Utilizo un while para que se haga mientras que lo leÃ­do no sea null.
 			while (leido != null) {
 
-				// Divido la línea anterior en atributos usando : como separador.
+				// Divido la lÃ­nea anterior en atributos usando : como separador.
 				String[] atributo = leido.split(":");
 
 				artista = new Artista(atributo[0], atributo[1], Integer.valueOf(atributo[2]));
@@ -102,13 +102,13 @@ public class Servicio {
 
 		try (BufferedReader leer = new BufferedReader(new FileReader(canciones21))) {
 
-			// Utilizo un readLine para leer líneas completas.
+			// Utilizo un readLine para leer lÃ­neas completas.
 			String leido = leer.readLine();
 
-			// Utilizo un while para que se haga mientras que lo leído no sea null.
+			// Utilizo un while para que se haga mientras que lo leÃ­do no sea null.
 			while (leido != null) {
 
-				// Divido la línea anterior en atributos usando : como separador.
+				// Divido la lÃ­nea anterior en atributos usando : como separador.
 				String[] atributo = leido.split(":");
 
 				artista = new Artista(atributo[0], atributo[1], Integer.valueOf(atributo[2]));
@@ -131,10 +131,10 @@ public class Servicio {
 		// Escribo en el fichero.
 		try (PrintWriter ficheroSalida = new PrintWriter("archivo_salida.txt")) {
 
-			Usuario usuario = new Usuario("1", "Tomás Carretero Reyes", "tomascr1@yahoo.es");
+			Usuario usuario = new Usuario("1", "TomÃ¡s Carretero Reyes", "tomascr1@yahoo.es");
 
 			ficheroSalida.println(usuario.toString() + "\n");
-			ficheroSalida.println(info + "\n" + "Artista:Canción:Veces Escuchado:Recaudación ---->\n");
+			ficheroSalida.println(info + "\n" + "Artista:CanciÃ³n:Veces Escuchado:RecaudaciÃ³n ---->\n");
 			int i;
 			// Recorro el List, y escribo el valor de cada artista,
 			for (i = 1; i <= lista.size();) {
